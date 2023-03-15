@@ -11,7 +11,7 @@ public class DevopsIntegrationApplication {
 
 	@GetMapping
 	public String message(){
-		return "welcome to Oracle Bangalore..!";
+		return "welcome to Oracle TechHub Bangalore..!";
 	}
 
 	public static void main(String[] args) {
